@@ -1,6 +1,10 @@
 # CustomerRecords
 Code test for Intercom Graduate Software Developer
 
+This program reads a customer records file. 
+It returns customers within 100km sorted in ascending order by User_ID.
+To calculate distance the program uses the spherical law of cosines.
+
 
 ### Running the application
 * ###### Clone the repository
