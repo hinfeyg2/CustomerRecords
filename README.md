@@ -12,6 +12,6 @@ To calculate distance the program uses the spherical law of cosines.
 * ###### Run the app
 ```$ python CustomerRecords.py```
 
-### Testing
-Testing is done with Python's [unittest](https://docs.python.org/3/library/unittest.html#module-unittest) testing framework for unit testing. Tests can be run with the following command :
+### Tests
+Testing is done with Python's [unittest](https://docs.python.org/3/library/unittest.html#module-unittest) testing framework. They can be run with the following command :
 ```$ python test.py```
