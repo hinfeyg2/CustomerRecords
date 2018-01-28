@@ -1,6 +1,8 @@
 # CustomerRecords
 Code test for Intercom Graduate Software Developer
 
+Written in Python.
+
 This program reads a customer records file (gistfile1.txt).
 It returns customers within 100km sorted in ascending order by User_ID.
 To calculate distance the program uses the spherical law of cosines.
